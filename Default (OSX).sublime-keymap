@@ -1,6 +1,4 @@
 [
-    {
-        "keys": ["option+p"],
-        "command": "open_files_lister",
-    }
+  { "keys": ["option+p"], "command": "open_files_lister", },
+  { "keys": ["control+option+p"], "command": "open_files_lister",  "args": {"glob_views": true} },
 ]
