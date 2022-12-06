@@ -1,0 +1,6 @@
+{
+    // This setting helps in determining the inclusion of the untitled files in the list.
+    // True: Include the untitled files in the list.
+    // False: Exclude the untitled files in the list.
+	"show_untitled_files": false,
+}

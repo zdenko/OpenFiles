@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["alt+p"],
+        "command": "open_files_lister",
+    }
+]
